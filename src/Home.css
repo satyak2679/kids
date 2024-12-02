@@ -1,0 +1,24 @@
+    .parent2{
+    background-color: aquamarine;
+    padding-top: 50px;
+    padding-left: 20px;
+    display: grid;
+    grid-template-columns: 40% 30%;
+    height: 500px;
+   }
+   .child4{
+    margin-top: 30px;
+   }
+   #image1{
+   
+    border-radius: 50%;
+   }
+   .child3{
+    font-family:cursive;
+   }
+   .button2{
+    margin-top: 20px;
+    background-color: blue;
+    border-radius: 30px;
+    color: white;
+   }

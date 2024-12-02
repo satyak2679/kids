@@ -1,0 +1,33 @@
+.parent2v{
+    
+   background-color: aquamarine;   
+   padding-top: 50px;
+    padding-bottom: 50px;
+   }
+
+   .categories1{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    padding-left: 50px;
+    font-family: cursive;
+    color: blue;
+   }
+   .categories2{
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+    padding-left: 50px;
+    font-family: cursive;
+   }
+  #para1{
+    font-family: cursive;
+    font-size: x-large;
+    text-align: center;
+   }
+   #para2{
+    font-family: cursive;
+    font-size: medium;
+    
+   }
+    #head1{
+         font-family: cursive; text-align:center
+    }

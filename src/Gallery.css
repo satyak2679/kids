@@ -1,0 +1,27 @@
+ .gallery{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-gap:20px
+   }
+   img {
+    height: 300px;
+    width: 300px;
+   }
+   
+  .button1{
+    background-color: blue;
+  }
+  .anchor1{
+    background-color: blue;
+  
+    padding: 20px;
+    margin-top:20px;
+    text-align: center;
+    
+  }
+  .anchor1 a{
+    color: white;
+    text-decoration: none;
+    font-family: cursive;
+    font-size: xx-large;
+  }

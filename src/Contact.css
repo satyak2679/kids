@@ -1,0 +1,41 @@
+
+   .content1{
+    display: grid;
+    grid-template-columns: 60% 30%;
+    background-color:#d8e484;
+   }
+   .art1{
+    display: inline;
+    padding-left: 50px;
+    padding-top: 50px;
+    font-family: cursive;
+  
+   }
+
+  form {
+    margin-top: 50px;
+    margin-left: 30px;
+    margin-bottom: 30px;
+    display: flex;
+    flex-direction: column;
+    background-color: #a0cc64    ;
+    border: 1px solid black;
+    padding: 120px;
+    padding-top: 30px;
+    border-radius: 50px;
+  }
+  .button1{
+    margin-top: 20px;
+    background-color: blue;
+    border-radius: 30px;
+    color: white;
+  }
+  .button2{
+    margin-top: 20px;
+    background-color: blue;
+    border-radius: 30px;
+    color: white;
+  }
+  #labelName {
+    font-size:x-large; font-family:cursive; font-weight: bolder;
+  }

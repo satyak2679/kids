@@ -1,0 +1,18 @@
+
+.artval{
+    display: grid;
+    grid-template-columns: 50% 30%;
+    font-family: cursive;
+
+}
+.art2{
+    display: grid;
+    grid-template-columns: 30% 50%;
+    font-family: cursive;
+}
+.art3{
+    display: grid;
+    grid-template-columns: 50% 30%;
+    font-family: cursive;
+
+}
